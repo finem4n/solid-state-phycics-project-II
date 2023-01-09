@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.12.24)  24 DEC 2022 15:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.12.24)  9 JAN 2023 01:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -453,25 +453,110 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <7> on input line 37.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <5> on input line 37.
- [1
+<./out/phonons.jpg, id=4, 867.24pt x 578.16pt>
+File: ./out/phonons.jpg Graphic file (type jpg)
+<use ./out/phonons.jpg>
+Package pdftex.def Info: ./out/phonons.jpg  used on input line 77.
+(pdftex.def)             Requested size: 318.66946pt x 212.44257pt.
 
-{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.aux)
+
+pdfTeX warning: pdflatex (file ./projekt2_zad1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<projekt2_zad1.pdf, id=5, 803.0pt x 1284.8pt>
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf>
+Package pdftex.def Info: projekt2_zad1.pdf  used on input line 82.
+(pdftex.def)             Requested size: 802.99805pt x 1284.79688pt.
+
+
+pdfTeX warning: pdflatex (file ./projekt2_zad1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf>
+Package pdftex.def Info: projekt2_zad1.pdf  used on input line 82.
+(pdftex.def)             Requested size: 802.99805pt x 1284.79688pt.
+
+
+pdfTeX warning: pdflatex (file ./projekt2_zad1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./projekt2_zad1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<projekt2_zad1.pdf, id=8, page=1, 803.0pt x 1284.8pt>
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf, page 1>
+Package pdftex.def Info: projekt2_zad1.pdf , page1 used on input line 82.
+(pdftex.def)             Requested size: 802.99805pt x 1284.79688pt.
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf, page 1>
+Package pdftex.def Info: projekt2_zad1.pdf , page1 used on input line 82.
+(pdftex.def)             Requested size: 497.15645pt x 795.45033pt.
+[1
+
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./out/phonons.jpg>]
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf, page 1>
+Package pdftex.def Info: projekt2_zad1.pdf , page1 used on input line 82.
+(pdftex.def)             Requested size: 497.15645pt x 795.45033pt.
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf, page 1>
+Package pdftex.def Info: projekt2_zad1.pdf , page1 used on input line 82.
+(pdftex.def)             Requested size: 497.15645pt x 795.45033pt.
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf, page 1>
+Package pdftex.def Info: projekt2_zad1.pdf , page1 used on input line 82.
+(pdftex.def)             Requested size: 497.15645pt x 795.45033pt.
+ [2 <./projekt2_zad1.pdf>]
+
+pdfTeX warning: pdflatex (file ./projekt2_zad1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<projekt2_zad1.pdf, id=36, page=2, 803.0pt x 1284.8pt>
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf, page 2>
+Package pdftex.def Info: projekt2_zad1.pdf , page2 used on input line 82.
+(pdftex.def)             Requested size: 497.15645pt x 795.45033pt.
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf, page 2>
+Package pdftex.def Info: projekt2_zad1.pdf , page2 used on input line 82.
+(pdftex.def)             Requested size: 497.15645pt x 795.45033pt.
+File: projekt2_zad1.pdf Graphic file (type pdf)
+<use projekt2_zad1.pdf, page 2>
+Package pdftex.def Info: projekt2_zad1.pdf , page2 used on input line 82.
+(pdftex.def)             Requested size: 497.15645pt x 795.45033pt.
+[3 <./projekt2_zad1.pdf>]
+<./misc/polprzewodniki1.png, id=46, 604.2575pt x 371.3875pt>
+File: ./misc/polprzewodniki1.png Graphic file (type png)
+<use ./misc/polprzewodniki1.png>
+Package pdftex.def Info: ./misc/polprzewodniki1.png  used on input line 101.
+(pdftex.def)             Requested size: 318.66946pt x 195.85973pt.
+<./misc/scheme.png, id=48, 962.59625pt x 598.235pt>
+File: ./misc/scheme.png Graphic file (type png)
+<use ./misc/scheme.png>
+Package pdftex.def Info: ./misc/scheme.png  used on input line 109.
+(pdftex.def)             Requested size: 318.66946pt x 198.03888pt.
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.110     \caption{Budowa nanostruktury}
+                                         [4 <./misc/polprzewodniki1.png> <./misc/scheme.png>]
+<zad3.jpg, id=58, 867.24pt x 578.16pt>
+File: zad3.jpg Graphic file (type jpg)
+<use zad3.jpg>
+Package pdftex.def Info: zad3.jpg  used on input line 165.
+(pdftex.def)             Requested size: 318.66946pt x 212.44257pt.
+ [5] [6 <./zad3.jpg>] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9709 strings out of 478855
- 145508 string characters out of 5858634
- 452404 words of memory out of 6000000
- 27182 multiletter control sequences out of 15000+600000
- 408608 words of font info for 40 fonts, out of 8000000 for 9000
+ 9774 strings out of 478855
+ 146726 string characters out of 5858634
+ 458544 words of memory out of 6000000
+ 27228 multiletter control sequences out of 15000+600000
+ 408943 words of font info for 41 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 60i,16n,63p,237b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plrm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/pl/plbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plr10.pfb>
-Output written on main.pdf (1 page, 27648 bytes).
+ 60i,17n,67p,264b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plmi.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plsc.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plms.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plme.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl/plrm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/pl/plbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/pl/plsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (6 pages, 3717537 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
